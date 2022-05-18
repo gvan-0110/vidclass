@@ -14,10 +14,7 @@ gvanzin-allegheny
 
 ---
 
-```
-  code {
-    white-space : pre-wrap !important;
-  }
+``
    My area of research for my project falls within the field of image classification.  To be more precise, image classification with artificial intelligence.  The reason for my interest in this field is because I find it fascinating how neural networks and machine learning can solve problems that wouldn’t be possible with other algorithms normally.  For instance, writing a program that can detect numbers within an image would be impossible without the implementation of some form of artificial intelligence.  I wanted to focus on the neural network side of AI rather than machine learning for this project since I haven’t delved into the topic as much.  With the desire to work with neural networks, I came up with the idea of creating an AI that can seperate videos into categories based on similarity.  This idea came to me when I was already halfway through the project cycle.  When I was working on the prototype for my project, I thought that sorting the data I retrieved for the AI would be much better if I could use a tool rather than doing everything manually.  This is where I got the idea of a video classification network.
 
    There are already many image classification networks out there that companies and individuals have made.  A few examples are Dall-E, CoCa, and CaiT-M.  Through their papers, I was able to get a better understanding of the processes behind image classification, and learned that the most widely used networks for these purposes are called convolutional neural networks.  Convolutional neural networks aim to improve speed and pattern recognition by applying filters to an image which generates an array containing which regions match the filter the best.  Since the filters condense an area of pixels into one number, the image is scaled down while still containing important information for training the network.  Throughout the network, multiple filters are applied to the image in order to identify objects with certain visual attributes.  After the filters are applied, the resulting array is passed through an algorithm usually called a ‘pooling layer’.  The purpose of the pooling layer is to go through the array in order, and find the highest number within a 2x2 area and save it to another array to condense the images information even more.  After all these steps are done, the array is then flattened and passed through a dense neural network.  The main reason for condensing the image so much is to lower the calculations the network needs to perform.  For instance, a normal HD image, at around 1280 x 720 resolution, contains 921600 pixels.  Without condensing the image, there would be 921600 input parameters, however, if we condense the image, we could reduce that to half or even lower.
@@ -55,7 +52,8 @@ gvanzin-allegheny
    While the current project focuses on a basic version of the idea I originally proposed, a more advanced version could pose significant ethical concerns.  One concern, which isn’t as serious as the other, would be using data from youtube that is not owned by the developer working on training the model.  This is an issue with permission not being granted by those who made the videos, however, this problem could be solved by filming original videos for training instead.  The second concern is the use of a tool like this to find videos for censorship and misinformation.  For instance, if a group was wanting to delete videos with a certain message, a more powerful version of video classification could point them to where the videos are located.  This issue is a tricky one since most preventative measures could be reversed with enough knowledge of the program and therefore there aren’t any good permanent solutions.
 
    However, although there are ethical concerns associated with this type of program, there are also many benefits as well.  Finding similar creators to you if you are a videographer for instance.  While this program was just a beginning stage of video classification, I believe that further research and improvements into the program in the future could improve it significantly.
-```
+``   
+   
 ---
 
 (Did you remember to add your name and GitHub account name and date to the top of this document?)
