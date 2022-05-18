@@ -61,6 +61,13 @@ gvanzin-allegheny
 
 &nbsp;&nbsp;&nbsp;However, although there are ethical concerns associated with this type of program, there are also many benefits as well.  Finding similar creators to you if you are a videographer for instance.  While this program was just a beginning stage of video classification, I believe that further research and improvements into the program in the future could improve it significantly.
 
+Dependencies Used for Project : 
+
+https://opencv.org/releases/
+https://pypi.org/project/youtube-search-python/
+https://github.com/yt-dlp/yt-dlp
+https://github.com/ytdl-org/youtube-dl
+
 ---
 
 (Did you remember to add your name and GitHub account name and date to the top of this document?)
