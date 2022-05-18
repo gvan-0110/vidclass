@@ -14,6 +14,7 @@ gvanzin-allegheny
 
 ---
 
+```
 ``
    My area of research for my project falls within the field of image classification.  To be more precise, image classification with artificial intelligence.  The reason for my interest in this field is because I find it fascinating how neural networks and machine learning can solve problems that wouldn’t be possible with other algorithms normally.  For instance, writing a program that can detect numbers within an image would be impossible without the implementation of some form of artificial intelligence.  I wanted to focus on the neural network side of AI rather than machine learning for this project since I haven’t delved into the topic as much.  With the desire to work with neural networks, I came up with the idea of creating an AI that can seperate videos into categories based on similarity.  This idea came to me when I was already halfway through the project cycle.  When I was working on the prototype for my project, I thought that sorting the data I retrieved for the AI would be much better if I could use a tool rather than doing everything manually.  This is where I got the idea of a video classification network.
 
@@ -53,7 +54,8 @@ gvanzin-allegheny
 
    However, although there are ethical concerns associated with this type of program, there are also many benefits as well.  Finding similar creators to you if you are a videographer for instance.  While this program was just a beginning stage of video classification, I believe that further research and improvements into the program in the future could improve it significantly.
 ``   
-   
+```
+
 ---
 
 (Did you remember to add your name and GitHub account name and date to the top of this document?)
