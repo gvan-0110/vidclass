@@ -64,8 +64,11 @@ gvanzin-allegheny
 Dependencies Used for Project : 
 
 https://opencv.org/releases/
+
 https://pypi.org/project/youtube-search-python/
+
 https://github.com/yt-dlp/yt-dlp
+
 https://github.com/ytdl-org/youtube-dl
 
 ---
