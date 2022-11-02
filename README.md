@@ -27,3 +27,11 @@ The diagram below provides a visual way to understand method 2:
 - https://github.com/yt-dlp/yt-dlp
 
 - https://github.com/ytdl-org/youtube-dl
+
+## Dataset
+
+The dataset used to originally train the model can be downloaded at the link below.
+
+https://drive.google.com/file/d/1UB_7fQ5gY-xyhWB_gtJul6s8h4O5iArV/view?usp=sharing
+
+The content of the dataset is frog, dog, and cat videos modified using the methods in the process section of the readme.  There are around a total of 28 videos in each category.  The original training of the network used these videos to detect whether a test video belonged in the frog, dog, or cat content category.
