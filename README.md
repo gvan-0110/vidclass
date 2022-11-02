@@ -2,7 +2,7 @@
 
 **VidClass** is a experiment designed in Python through Jupyter that attempts to classify a set of videos into categories based on content they have in common.
 
-The motivation for this project stemmed from the gap in the amount video classifiers compared to image classifiers.  One example of a video classifier that many people know about is youtube’s search recommendation algorithm.  You can type in a keyword or phrase for a video and it will find you videos with content similar to the phrase you have given.  However, you can only use words with youtube to find videos, while the main goal of this program is to input a video and the gather similar videos.
+The motivation for this project stemmed from the gap in the amount video classifiers compared to image classifiers.  One example of a video classifier that many people know about is youtube’s search recommendation algorithm.  You can type in a keyword or phrase for a video and it will find you videos with content similar to the phrase you have given.  However, you can only use words with youtube to find videos, while the main goal of this program is to input a video and then gather similar videos.
 
 ## Process
 
@@ -15,3 +15,15 @@ The program uses a convolutional neural network to classify the videos.  To gath
 The diagram below provides a visual way to understand method 2:
 
 ![Diagram](https://user-images.githubusercontent.com/54772966/169022253-53f2f16a-8ea5-4a9e-8c29-8afb0d5c3123.png)
+
+## Dependencies
+
+**Dependencies Used for Project** :
+
+- https://opencv.org/releases/
+
+- https://pypi.org/project/youtube-search-python/
+
+- https://github.com/yt-dlp/yt-dlp
+
+- https://github.com/ytdl-org/youtube-dl
